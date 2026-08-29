@@ -3,7 +3,7 @@
 <tr>
 <td width="40%" align="center">
 
-<img src="./assets/github_profile_photo.jpg" width="350">
+<img src="./github_profile_photo.jpg" width="350">
 
 </td>
 

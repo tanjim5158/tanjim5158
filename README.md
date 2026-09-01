@@ -17,6 +17,10 @@
 🏆 Competitive Programming  
 📚 Learning Data Structures & Algorithms  
 🛡️ Cybersecurity Enthusiast  
+Leetcode : tanjim261
+Codeforces : mdtanjim
+Email : tanjim5158@gmail.com
+phone : +880 1908484955
 
 📍 Bangladesh
 
